@@ -11,5 +11,9 @@ echo "password : $pass"
 echo "avg function"
 #safjkbsakjfbkjasfbk
 jhDASDHJKASD
+
+
+
+asd
 SALFASFLKASJMF
 
