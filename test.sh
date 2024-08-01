@@ -9,3 +9,6 @@ echo "password : $pass"
 
 # this is for calc avg
 echo "avg function"
+#safjkbsakjfbkjasfbk
+
+
